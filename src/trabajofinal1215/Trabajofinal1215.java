@@ -9,7 +9,7 @@ public class Trabajofinal1215
         System.out.println("hola");
         System.out.println("holawer");
         /////////////////////////////////////////////
-
+        int i;
 
     }
 
