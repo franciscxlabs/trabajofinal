@@ -8,6 +8,7 @@ public class Trabajofinal1215
         
         System.out.println("hola");
         System.out.println("hola");
+        System.out.println("hola");
         System.out.println("123");
         /////////////////////////////////////////////
         int i;
