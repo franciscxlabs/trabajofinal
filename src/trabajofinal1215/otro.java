@@ -17,7 +17,10 @@ public class otro {
         // TODO code application logic here
         int i=0;
         for(i=0;i<10;i++){
-            System.out.println("hola"+i);
+            System.out.println("hola    "+i);
+            int e =0;
+            e++;
+            System.out.println(i);
         }
     }
     
